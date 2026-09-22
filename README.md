@@ -6,6 +6,12 @@ O banco registra os usuários que solicitam atendimento, os técnicos responsáv
 
 ## Tabelas
 
+## MER DER
+
+![LOGICO](mer-derLOGICO.png)
+
+![CONCEITUAL](MerDer-Conceitual.png)
+
 ### Usuário
 
 | Campo        | Descrição                |
