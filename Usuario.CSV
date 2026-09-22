@@ -1,0 +1,4 @@
+| id | nome         | email                                     | telefone    | departamento | carga | status |
+| -- | ------------ | ----------------------------------------- | ----------- | ------------ | ----- | ------ |
+| 1  | João Silva   | [joao@email.com](mailto:joao@email.com)   | 11999990000 | TI           | 40h   | Ativo  |
+| 2  | Maria Santos | [maria@email.com](mailto:maria@email.com) | 11988880000 | Financeiro   | 40h   | Ativo  |

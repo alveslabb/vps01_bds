@@ -1,0 +1,4 @@
+| id | nome            | email                                       | especialidade | status |
+| -- | --------------- | ------------------------------------------- | ------------- | ------ |
+| 1  | Carlos Oliveira | [carlos@email.com](mailto:carlos@email.com) | Hardware      | Ativo  |
+| 2  | Pedro Souza     | [pedro@email.com](mailto:pedro@email.com)   | Software      | Ativo  |

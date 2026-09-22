@@ -1,0 +1,4 @@
+| id | título              | descrição              | data_abertura | data_fechamento | status    | prioridade | id_usuario | id_categoria | id_tecnico |
+| -- | ------------------- | ---------------------- | ------------- | --------------- | --------- | ---------- | ---------- | ------------ | ---------- |
+| 1  | Computador não liga | Computador não inicia  | 22/09/2026    | 22/09/2026      | Resolvido | Alta       | 1          | 1            | 1          |
+| 2  | Erro no sistema     | Sistema apresenta erro | 22/09/2026    |                 | Aberto    | Média      | 2          | 2            | 2          |
