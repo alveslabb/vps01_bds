@@ -1,5 +1,4 @@
-| id | id_chamado | id_usuario | data_hora        | descrição                   | tipo        |
-| -- | ---------- | ---------- | ---------------- | --------------------------- | ----------- |
-| 1  | 1          | 1          | 22/09/2026 10:00 | Chamado aberto pelo usuário | Abertura    |
-| 2  | 1          | 1          | 22/09/2026 11:00 | Equipamento verificado      | Atualização |
-| 3  | 1          | 1          | 22/09/2026 12:00 | Problema solucionado        | Solução     |
+id,id_chamado,id_usuario,data_hora,descrição,tipo
+1,1,1,22/09/2026 10:00,Chamado aberto pelo usuário,Abertura
+2,1,1,22/09/2026 11:00,Equipamento verificado,Atualização
+3,1,1,22/09/2026 12:00,Problema solucionado,Solução

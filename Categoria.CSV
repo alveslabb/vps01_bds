@@ -1,6 +1,5 @@
-| id | nome     | descrição                               |
-| -- | -------- | --------------------------------------- |
-| 1  | Hardware | Problemas relacionados aos equipamentos |
-| 2  | Software | Problemas relacionados aos programas    |
-| 3  | Rede     | Problemas de conexão e rede             |
-| 4  | Acesso   | Problemas de login e permissões         |
+id;nome;descricao
+1;Hardware;Problemas relacionados aos equipamentos
+2;Software;Problemas relacionados aos programas
+3;Rede;Problemas de conex�o e rede
+4;Acesso;Problemas de login e permiss�es
